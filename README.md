@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
-<h3 align="center">A passionate full-stack developer originally from the Dominican Republic, currently living in Iowa</h3>
+<h3 align="center">A passionate full-stack developer originally from the Dominican Republic, currently living in Davenport, Iowa</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
